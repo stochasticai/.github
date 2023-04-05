@@ -1,6 +1,6 @@
 ## Hi there, we're Stochastic!
 
-[Stochastic](https://stochastic.ai/) was founded by researchers at Harvard University in 2020 with a vision to build effortless generative AI optimization and deployment to enable anyone to ship state-of-the-art AI models with production-grade performance.
+[Stochastic](https://stochastic.ai/) was founded by researchers at Harvard University with a vision to build a future where Personal AI will be everywhere, just like PCs. We are democratizing AI by leveling the playing field which dominated by Big Tech's centralized APIs - building and providing open-source libraries that give users the ability to efforlessly build and control their own personal LLMs. We'd really appreaciate your feedback and contribution!
 
 <p align="center">
 <a href="https://stochastic.ai/">
