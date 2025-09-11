@@ -1,6 +1,6 @@
 ## Hi there, we're Stochastic!
 
-[Stochastic](https://stochastic.ai/) was founded by researchers at Harvard University with a vision to build a future where Personal AI will be everywhere, just like PCs. We are democratizing AI by leveling the playing field which is dominated by Big Tech's centralized APIs - building and providing open-source libraries that give users the ability to effortlessly build and control their own personal LLMs and deploy with optimized performance. We'd really appreciate your feedback and contribution!
+[Stochastic](https://stochastic.ai/) was founded by AI systems researchers at Harvard University with the vision of creating a future where privately owned, personalized AI is as common and accessible as personal computers. Our mission is to democratize AI by building and owning a competitive alternative in a space currently dominated by Big Tech and a few large companies. We’re developing open-source libraries that empower users to easily train, customize, and control their own large language models—then deploy them with optimized performance. We’d love your feedback and contributions as we work toward this future together.
 
 <p align="center">
 <a href="https://stochastic.ai/">
@@ -16,3 +16,4 @@
 <img src="https://img.shields.io/badge/chat-FFFFFF?style=for-the-badge&logo=discord"/>
 </a>
 </p>
+
